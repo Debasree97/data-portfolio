@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Sree's Handicrafts",
+    "technology": "React JS, CSS3, Material UI, React-Router, Node JS, Express JS, MongoDB, Firebase",
+    "description": "A responsive full stack niche website built with MERN technology that sells inclusively crocheted items.",
+    "feature": [
+      "There are two general routes: Home, Explore. Further exploration will require login/regestration.",
+      "Applied customer route and admin route on dashboard to give user customized CRUD experience based on role and purpose upon verifying email saved on database.",
+      "Incorporated gmail password authentication for authorized secure navigation through My Orders, Payment, Review options as a user and Manage All Orders, Add A Product, Manage Products, Make Admin routes as a admin.",
+      "In order to grant new admin membership, one must be an admin himself/herself.",
+      "Any route except the valid ones will take user to a 404 Not Found page."
+    ],
+    "liveWebsite": "https://assignment-12-92897.firebaseapp.com/",
+    "client": "https://github.com/Debasree97/Sree-s-Handicrafts-Client-Side",
+    "server": "https://github.com/Debasree97/-Sree-s-Handicrafts-Server-Side",
+    "imgHome": "https://i.ibb.co/47qD22K/sree-s-handicrafts.png",
+    "img1": "https://i.ibb.co/qxnPczS/sree-1.png",
+    "img2": "https://i.ibb.co/4s5Qx5r/sree-2.png",
+    "img3": "https://i.ibb.co/mzRphFH/sree-3.png"
+  },
+  {
+    "name": "Wilderness Trekking",
+    "technology": "React JS, React-Bootstrap, React-Router, CSS3, Bootstrap 5, Node JS, Express JS, MongoDB, Firebase",
+    "description": "A responsive MERN full-stack website that offers enjoyable trekking experience by arranging guided tours.",
+    "feature": [
+      "There are two general routes: Home, Signin. Further exploration will require user to sign-in.",
+      "Integrated Google sign-in authentication to ensure tailored features for every individual user by granting the choice of adding and deleting trip.",
+      "Implemented private route to prevent unauthorized user access to several routes.",
+      "Signing in will enable Add a New Package, My Bookings, Manage All Bookings and Sign out button.",
+      "Any unrecognized route will lead user to a 404 Not Found page."
+    ],
+    "liveWebsite": "https://assignment-11-authentication.web.app/",
+    "client": "https://github.com/Debasree97/Wilderness-Trekking-Client-Side",
+    "server": "https://github.com/Debasree97/Wilderness-Trekking-Server-Side",
+    "imgHome": "https://i.ibb.co/VqxwMn4/wilderness-trekking.png",
+    "img1": "https://i.ibb.co/CscKFZs/wilderness-1.png",
+    "img2": "https://i.ibb.co/SNPWVmh/wilderness-2.png",
+    "img3": "https://i.ibb.co/vwrzGt8/wilderness-3.png"
+  },
+  {
+    "name": "Peace Mental HealthCare",
+    "technology": "React JS, CSS3, React-Player, React-Router, Material UI, Firebase",
+    "description": "A responsive striking website that offers information and treatments for various mental health issues.",
+    "feature": [
+      "There are four general routes: Home, About, Research, Sign Up",
+      "Integrated Gmail password and Google sign-in authentication.",
+      "User login is required to access detailed information of particular mental disorder.",
+      "Implemented private routes to prevent unauthorized access.",
+      "Any unrecognized route will lead user to a 404 Not Found page."
+    ],
+    "liveWebsite": "https://peace-mental-healthcare.firebaseapp.com/",
+    "client": "https://github.com/Debasree97/Peace-Mental-Health-Care-Client-Side",
+    "server": "",
+    "imgHome": "https://i.ibb.co/9N8s1mD/peace-mental-healthcare.png",
+    "img1": "https://i.ibb.co/W5g86Rz/peace-1.png",
+    "img2": "https://i.ibb.co/Zmjwv4c/peace-2.png",
+    "img3": "https://i.ibb.co/DwxYSk9/peace-3.png"
+  }
+]
